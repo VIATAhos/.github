@@ -11,7 +11,7 @@
 
   <br>
 
-  <h2>🌐 <a href="https://VIATAhomebrew.github.io">VISIT THE REAL HEADQUARTERS HERE</a> 🌐</h2>
+  <h2>🌐 <a href="https://VIATAhos.github.io">VISIT THE REAL HEADQUARTERS HERE</a> 🌐</h2>
 
   <br>
 
